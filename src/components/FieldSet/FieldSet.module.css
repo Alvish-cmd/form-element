@@ -1,0 +1,10 @@
+.__fieldset {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 75%;
+}
+
+.__fieldset legend {
+  text-transform: capitalize;
+}
